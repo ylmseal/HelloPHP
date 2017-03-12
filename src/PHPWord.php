@@ -17,4 +17,13 @@ class PHPWord
 	{
 		echo "string";
 	}
+
+	function go()
+	{
+		echo "gogogogo";
+	}
+
+	function sd() {
+		skdjfljdslkflkdsf
+	}
 }
