@@ -22,8 +22,11 @@ class PHPWord
 	{
 		echo "gogogogo";
 	}
+<<<<<<< HEAD
 
 	function sd() {
 		skdjfljdslkflkdsf
 	}
+=======
+>>>>>>> 4f14367290beedc3e40cde6a7a1552631eb7997d
 }
