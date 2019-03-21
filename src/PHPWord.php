@@ -22,7 +22,6 @@ class PHPWord
 	{
 		echo "gogogogo";
 	}
-
 	function sd() {
 		skdjfljdslkflkdsf
 	}
