@@ -1,0 +1,29 @@
+2018-12-02 17:15:36.109 15083-15083/tool.toolmanager D/DEVICE: BR000025------00:CD:FF:00:23:1D
+2018-12-02 17:15:36.110 15083-15083/tool.toolmanager D/DEVICE: BR508685------00:CD:FF:0E:41:F2
+2018-12-02 17:15:36.112 15083-15083/tool.toolmanager D/DEVICE: BR000004------00:CD:FF:00:22:F8
+2018-12-02 17:15:36.113 15083-15083/tool.toolmanager D/DEVICE: BR508678------00:CD:FF:00:1F:E3
+2018-12-02 17:15:36.114 15083-15083/tool.toolmanager D/DEVICE: BR000018------00:CD:FF:00:23:0E
+2018-12-02 17:15:36.115 15083-15083/tool.toolmanager D/DEVICE: BR000007------00:CD:FF:00:23:33
+2018-12-02 17:15:36.116 15083-15083/tool.toolmanager D/DEVICE: 50------00:CD:FF:00:22:A1
+2018-12-02 17:15:36.118 15083-15083/tool.toolmanager D/DEVICE: 43------00:CD:FF:00:23:29
+2018-12-02 17:15:36.119 15083-15083/tool.toolmanager D/DEVICE: BR508681------00:CD:FF:0E:46:F3
+2018-12-02 17:15:36.120 15083-15083/tool.toolmanager D/DEVICE: B------00:CD:FF:00:20:12
+2018-12-02 17:15:36.121 15083-15083/tool.toolmanager D/DEVICE: BR508684------00:CD:FF:00:20:41
+
+
+
+mq888s
+
+<?xml version=\"1.0\" encoding=\"utf-8\"?>
+
+<result status=\"ok\"> 
+  <order id=\"1467204844000\" orderNo=\"330848095857\" allPrice=\"1330.0\" noPay=\"0\" source=\"mobile.app.iphone\" backnote=\"更改条件：航班起飞前 4 小时之前,改期手续费为 186 元;航班起飞前 4 小时之后,改期手续费为 310 元退票条件：航班起飞前 4 小时之前,退票手续 费为 310 元;航班起飞前 4 小时之后,只退机建和燃油签转条件：不可签转\" xcdPrice=\"0\" viewPrice=\"0.0\" price=\"615.0\" pnr=\"\" cpnr=\"\" constructionFee=\"50.0\" fuelTax=\"0.0\" childFuelTax=\"0.0\" status=\"BOOK_OK\" contactMob=\"\" contactEmail=\"\" createTime=\"2016-06-29 20:54:04\"> 
+    <flight code=\"HU7605\" cabin=\"X\" dep=\"PEK\" arr=\"SHA\" depDay=\"2016-07-15\" depTime=\"08:15\" arrTime=\"10:25\" realCode=\"\"/>  
+    <passenger name=\"蔡阳杰\" birthday=\"null\" ageType=\"0\" gender=\"女\" cardType=\"NI\" price=\"615.0\" cardNum=\"511602199008161114\" eticketNum=\"\"/>  
+    <passenger name=\"蔡阳杰\" birthday=\"null\" ageType=\"0\" gender=\"女\" cardType=\"NI\" price=\"615.0\" cardNum=\"511602199008161114\" eticketNum=\"\"/>  
+    <log operator=\"System\" time=\"2016-06-24 19:18:17\" action=\"操作员: System,操作出票，票 号：李宝:7848544665167;操作结果：ZHAO/YUANYUAN:[NAME_NOT_MATCH],\"/>  
+    <log operator=\"System\" time=\"2016-06-24 19:40:06\" action=\"操作员: System,操作出票，票 号：李宝:7848544665167;操作结果：ZHAO/YUANYUAN:[NAME_NOT_MATCH],\"/>  
+    <log operator=\"System\" time=\"2016-06-28 14:15:54\" action=\"操作员: System,操作出票，票 号：方元（成人）:1234567890;操作结果：万能票号\"/>  
+    <log operator=\"System\" time=\"2016-06-28 14:30:45\" action=\"操作员: System,操作出票，票 号：方元（成人）:1234567890;操作结果：万能票号\"/> 
+  </order> 
+</result>
